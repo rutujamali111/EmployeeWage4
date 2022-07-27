@@ -5,7 +5,7 @@ public class EmpTest {
 		EmployeeWage emp=new EmployeeWage();
 		emp.Presenty();
 		int EmpWage=emp.DailyEmployeeWage();
-		System.out.println("Daily Employee wage is: "+EmpWage);
+		System.out.println("Monthly Employee wage is: "+EmpWage);
 
 	}
 
